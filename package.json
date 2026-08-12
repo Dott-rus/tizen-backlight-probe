@@ -1,10 +1,10 @@
 {
   "name": "dott-tizen-backlight-probe",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Temporary TizenBrew probe for Samsung TV backlight research",
   "packageType": "app",
   "appName": "Backlight Probe",
   "appPath": "index.html",
-  "serviceFile": "service-v5.js",
+  "serviceFile": "service-v6.js",
   "keys": []
 }
